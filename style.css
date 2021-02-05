@@ -1,0 +1,50 @@
+#page-header {
+  background-color: black;
+  color: white;
+}
+
+#city-search {
+  border: black solid 2px;
+  padding: 20px;
+}
+
+#current-weather {
+  height: 60%;
+  border-color: rgb(44, 44, 44) 5px;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+#forecast {
+  height: 40%;
+  border: 2px;
+  padding: 20px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+.btn {
+  color: lightskyblue;
+}
+
+.city-list {
+  border: black solid 2px;
+  padding: 10px;
+}
+
+.hero {
+  color: whitesmoke;
+  background-color: rgb(59, 58, 58);
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.float-right {
+  padding: 0px;
+}
+
+.uvIndex {
+  width: fit-content;
+}
